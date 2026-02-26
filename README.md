@@ -1,7 +1,7 @@
 # Project Overview
 An end-to-end data analysis project examining 50,000+ retail transactions from the Global Superstore dataset. Using advanced Excel techniques, this project explores sales patterns, pricing strategies, product performance, and operational efficiency across 147 countries and 15 years of business operations.
 
-Linkedin Post: 
+Linkedin Post: https://www.linkedin.com/in/paul-gikonyo-15389418b?miniProfileUrn=urn%253Ali%253Afsd_profile%253AACoAACzNhM8B6HD_yIkGpHSdjRGHqGPBsClH7fs&skipRedirect=true&miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACzNhM8B6HD_yIkGpHSdjRGHqGPBsClH7fs
 
 # Key Questions Explored
 1. Which Countries haad the top sales?
